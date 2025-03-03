@@ -3,3 +3,5 @@
 - list
 - of
 - items 
+> this is a citation
+> hopefully it will work
